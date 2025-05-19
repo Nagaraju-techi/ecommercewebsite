@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🍃 FreshMenta – Organic E-Commerce Website
 
 FreshMenta is a modern and user-friendly e-commerce web application built using **React.js**, focused on selling **fresh and organic fruits** online. It provides a smooth shopping experience, a responsive design, and essential e-commerce features for customers seeking healthy and natural products.
@@ -86,12 +86,6 @@ Freshmenta-ECommerce--ReactJs/
 
 ---
 
-## 📸 Screenshots
-
-> *Screenshots will be added here to showcase UI*
-> *(Add images to a `/screenshots` folder and embed with `![Home](screenshots/home.png)`)*
-
----
 
 ## 🌱 Future Enhancements
 
