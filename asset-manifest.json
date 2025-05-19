@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Nagaraju-techi/ecommercewebsite/static/css/main.893d6394.css",
+    "main.js": "/Nagaraju-techi/ecommercewebsite/static/js/main.573c5df3.js",
+    "static/js/453.2d40735f.chunk.js": "/Nagaraju-techi/ecommercewebsite/static/js/453.2d40735f.chunk.js",
+    "static/media/banner.jpg": "/Nagaraju-techi/ecommercewebsite/static/media/banner.e3cf32ae306780659827.jpg",
+    "static/media/bg-logo.png": "/Nagaraju-techi/ecommercewebsite/static/media/bg-logo.2a99178f4f0902f4f020.png",
+    "static/media/promagranade.jpeg": "/Nagaraju-techi/ecommercewebsite/static/media/promagranade.8ef07b6a115042386dea.jpeg",
+    "static/media/blackberry.jpeg": "/Nagaraju-techi/ecommercewebsite/static/media/blackberry.3f5cdd6552c976b138a1.jpeg",
+    "static/media/carrots.jpeg": "/Nagaraju-techi/ecommercewebsite/static/media/carrots.ea6b4103b94d6f1520ab.jpeg",
+    "static/media/strawberry.jpeg": "/Nagaraju-techi/ecommercewebsite/static/media/strawberry.3c1648dbeec0624b1472.jpeg",
+    "static/media/apple.jpeg": "/Nagaraju-techi/ecommercewebsite/static/media/apple.922a9ce31ca490205cf6.jpeg",
+    "static/media/cucumber.jpeg": "/Nagaraju-techi/ecommercewebsite/static/media/cucumber.9deb6bdc57315b11362f.jpeg",
+    "static/media/avacado.jpeg": "/Nagaraju-techi/ecommercewebsite/static/media/avacado.46e43553469966737dd4.jpeg",
+    "static/media/orange.jpeg": "/Nagaraju-techi/ecommercewebsite/static/media/orange.adfa0b1f54ef004ab215.jpeg",
+    "static/media/watermelon.jpeg": "/Nagaraju-techi/ecommercewebsite/static/media/watermelon.bbeec843ca6a6b2b7aa7.jpeg",
+    "index.html": "/Nagaraju-techi/ecommercewebsite/index.html",
+    "main.893d6394.css.map": "/Nagaraju-techi/ecommercewebsite/static/css/main.893d6394.css.map",
+    "main.573c5df3.js.map": "/Nagaraju-techi/ecommercewebsite/static/js/main.573c5df3.js.map",
+    "453.2d40735f.chunk.js.map": "/Nagaraju-techi/ecommercewebsite/static/js/453.2d40735f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.893d6394.css",
+    "static/js/main.573c5df3.js"
+  ]
+}
