@@ -1,6 +1,3 @@
-Sure! Here's a **complete and professional `README.md` file** for your **FreshMenta – Organic E-Commerce Website**:
-
----
 
 ````markdown
 # 🍃 FreshMenta – Organic E-Commerce Website
